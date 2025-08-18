@@ -195,3 +195,4 @@ MIT
 - [2026-02-10 02:27:44] Add validation
 - [2026-01-01 02:27:44] Update README
 - [2025-12-09 02:27:44] Update README
+- [2025-08-19 02:27:44] Refactor code structure
