@@ -100,3 +100,4 @@ MIT
 
 - [2026-04-13 02:27:44] Improve accessibility
 - [2025-08-14 02:27:44] Improve logging
+- [2025-11-03 02:27:44] Refactor code structure
