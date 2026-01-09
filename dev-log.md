@@ -14,3 +14,7 @@ Running development notes.
 ## 2026-01-08
 - feat: add dark and light theme toggle to navbar
 
+
+## 2026-01-09
+- chore: configure prettier formatting rules
+
