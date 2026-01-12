@@ -22,3 +22,7 @@ Running development notes.
 ## 2026-01-12
 - fix: prevent flash of unstyled content on load
 
+
+## 2026-01-12
+- feat: add keyboard shortcut for quick search
+
