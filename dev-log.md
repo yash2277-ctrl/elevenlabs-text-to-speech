@@ -18,3 +18,7 @@ Running development notes.
 ## 2026-01-09
 - chore: configure prettier formatting rules
 
+
+## 2026-01-12
+- fix: prevent flash of unstyled content on load
+
