@@ -26,3 +26,7 @@ Running development notes.
 ## 2026-01-12
 - feat: add keyboard shortcut for quick search
 
+
+## 2026-01-13
+- style: fix inconsistent spacing in components
+
