@@ -30,3 +30,7 @@ Running development notes.
 ## 2026-01-13
 - style: fix inconsistent spacing in components
 
+
+## 2026-01-14
+- refactor: simplify conditional rendering logic
+
