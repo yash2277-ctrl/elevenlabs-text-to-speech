@@ -34,3 +34,7 @@ Running development notes.
 ## 2026-01-14
 - refactor: simplify conditional rendering logic
 
+
+## 2026-01-15
+- chore: update .gitignore for OS-specific files
+
