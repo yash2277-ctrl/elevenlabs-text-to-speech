@@ -46,3 +46,7 @@ Running development notes.
 ## 2026-01-19
 - fix: resolve incorrect status code on missing routes
 
+
+## 2026-01-19
+- style: fix alignment of modal close button
+
