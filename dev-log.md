@@ -38,3 +38,7 @@ Running development notes.
 ## 2026-01-15
 - chore: update .gitignore for OS-specific files
 
+
+## 2026-01-19
+- fix: prevent tooltip from overflowing viewport
+
