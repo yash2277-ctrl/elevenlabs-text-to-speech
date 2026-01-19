@@ -42,3 +42,7 @@ Running development notes.
 ## 2026-01-19
 - fix: prevent tooltip from overflowing viewport
 
+
+## 2026-01-19
+- fix: resolve incorrect status code on missing routes
+
