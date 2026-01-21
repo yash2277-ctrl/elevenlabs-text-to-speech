@@ -50,3 +50,7 @@ Running development notes.
 ## 2026-01-19
 - style: fix alignment of modal close button
 
+
+## 2026-01-21
+- style: apply consistent font-size scale
+
