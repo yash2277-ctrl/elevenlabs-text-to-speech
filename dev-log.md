@@ -58,3 +58,7 @@ Running development notes.
 ## 2026-01-24
 - refactor: separate concerns in data fetching layer
 
+
+## 2026-01-24
+- fix: resolve date picker timezone offset
+
