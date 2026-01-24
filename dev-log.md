@@ -54,3 +54,7 @@ Running development notes.
 ## 2026-01-21
 - style: apply consistent font-size scale
 
+
+## 2026-01-24
+- refactor: separate concerns in data fetching layer
+
