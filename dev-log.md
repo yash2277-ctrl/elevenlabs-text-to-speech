@@ -62,3 +62,7 @@ Running development notes.
 ## 2026-01-24
 - fix: resolve date picker timezone offset
 
+
+## 2026-01-26
+- fix: correct timestamp display in UTC
+
