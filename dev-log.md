@@ -66,3 +66,7 @@ Running development notes.
 ## 2026-01-26
 - fix: correct timestamp display in UTC
 
+
+## 2026-01-26
+- style: apply consistent font-size scale
+
