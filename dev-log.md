@@ -70,3 +70,7 @@ Running development notes.
 ## 2026-01-26
 - style: apply consistent font-size scale
 
+
+## 2026-01-27
+- style: standardize z-index scale
+
