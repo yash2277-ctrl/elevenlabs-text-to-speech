@@ -74,3 +74,7 @@ Running development notes.
 ## 2026-01-27
 - style: standardize z-index scale
 
+
+## 2026-01-27
+- feat: add 404 not-found fallback page
+
