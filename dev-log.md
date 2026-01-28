@@ -78,3 +78,7 @@ Running development notes.
 ## 2026-01-27
 - feat: add 404 not-found fallback page
 
+
+## 2026-01-28
+- refactor: simplify conditional rendering logic
+
