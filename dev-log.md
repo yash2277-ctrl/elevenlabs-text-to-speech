@@ -86,3 +86,7 @@ Running development notes.
 ## 2026-01-28
 - style: increase tap target size on mobile
 
+
+## 2026-01-30
+- style: unify button hover states across pages
+
