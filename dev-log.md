@@ -98,3 +98,7 @@ Running development notes.
 ## 2026-02-04
 - feat: display relative timestamps
 
+
+## 2026-02-07
+- refactor: extract auth logic into custom hook
+
