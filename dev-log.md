@@ -106,3 +106,7 @@ Running development notes.
 ## 2026-02-07
 - refactor: consolidate API error handling
 
+
+## 2026-02-09
+- feat: add keyboard navigation to dropdown menus
+
