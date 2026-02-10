@@ -110,3 +110,7 @@ Running development notes.
 ## 2026-02-09
 - feat: add keyboard navigation to dropdown menus
 
+
+## 2026-02-10
+- refactor: replace inline styles with CSS classes
+
