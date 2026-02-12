@@ -118,3 +118,7 @@ Running development notes.
 ## 2026-02-11
 - refactor: consolidate API error handling
 
+
+## 2026-02-12
+- chore: update package-lock.json
+
