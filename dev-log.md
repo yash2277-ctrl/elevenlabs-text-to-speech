@@ -122,3 +122,7 @@ Running development notes.
 ## 2026-02-12
 - chore: update package-lock.json
 
+
+## 2026-02-14
+- feat: add user avatar upload with preview
+
