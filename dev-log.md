@@ -126,3 +126,7 @@ Running development notes.
 ## 2026-02-14
 - feat: add user avatar upload with preview
 
+
+## 2026-02-16
+- fix: handle token expiry with automatic refresh
+
