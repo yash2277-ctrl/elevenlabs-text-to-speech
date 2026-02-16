@@ -130,3 +130,7 @@ Running development notes.
 ## 2026-02-16
 - fix: handle token expiry with automatic refresh
 
+
+## 2026-02-16
+- docs: document all environment variables
+
