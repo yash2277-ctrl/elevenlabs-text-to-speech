@@ -134,3 +134,7 @@ Running development notes.
 ## 2026-02-16
 - docs: document all environment variables
 
+
+## 2026-02-18
+- fix: remove console.log statements from production code
+
