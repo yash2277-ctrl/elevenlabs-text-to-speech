@@ -138,3 +138,7 @@ Running development notes.
 ## 2026-02-18
 - fix: remove console.log statements from production code
 
+
+## 2026-02-18
+- docs: add screenshot to README
+
