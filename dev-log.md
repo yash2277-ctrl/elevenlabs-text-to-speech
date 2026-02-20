@@ -146,3 +146,7 @@ Running development notes.
 ## 2026-02-20
 - fix: correct timestamp display in UTC
 
+
+## 2026-02-20
+- feat: add recent searches dropdown
+
