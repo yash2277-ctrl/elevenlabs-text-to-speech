@@ -142,3 +142,7 @@ Running development notes.
 ## 2026-02-18
 - docs: add screenshot to README
 
+
+## 2026-02-20
+- fix: correct timestamp display in UTC
+
