@@ -150,3 +150,7 @@ Running development notes.
 ## 2026-02-20
 - feat: add recent searches dropdown
 
+
+## 2026-02-21
+- docs: clarify installation steps for Windows users
+
