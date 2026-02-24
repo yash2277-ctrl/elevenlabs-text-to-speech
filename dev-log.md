@@ -158,3 +158,7 @@ Running development notes.
 ## 2026-02-24
 - refactor: replace magic numbers with named constants
 
+
+## 2026-02-24
+- style: use CSS grid instead of flexbox for layout
+
