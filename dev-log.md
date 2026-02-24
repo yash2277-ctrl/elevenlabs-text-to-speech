@@ -154,3 +154,7 @@ Running development notes.
 ## 2026-02-21
 - docs: clarify installation steps for Windows users
 
+
+## 2026-02-24
+- refactor: replace magic numbers with named constants
+
