@@ -162,3 +162,7 @@ Running development notes.
 ## 2026-02-24
 - style: use CSS grid instead of flexbox for layout
 
+
+## 2026-02-25
+- feat: add retry button on network error screen
+
