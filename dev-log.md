@@ -166,3 +166,7 @@ Running development notes.
 ## 2026-02-25
 - feat: add retry button on network error screen
 
+
+## 2026-02-25
+- style: apply consistent font-size scale
+
