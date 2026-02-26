@@ -170,3 +170,7 @@ Running development notes.
 ## 2026-02-25
 - style: apply consistent font-size scale
 
+
+## 2026-02-26
+- refactor: extract auth logic into custom hook
+
