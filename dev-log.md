@@ -174,3 +174,7 @@ Running development notes.
 ## 2026-02-26
 - refactor: extract auth logic into custom hook
 
+
+## 2026-02-26
+- feat: add user avatar upload with preview
+
