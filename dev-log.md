@@ -182,3 +182,7 @@ Running development notes.
 ## 2026-02-28
 - docs: add inline comments to complex functions
 
+
+## 2026-02-28
+- style: use CSS grid instead of flexbox for layout
+
