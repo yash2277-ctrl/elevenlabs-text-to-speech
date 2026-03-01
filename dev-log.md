@@ -186,3 +186,7 @@ Running development notes.
 ## 2026-02-28
 - style: use CSS grid instead of flexbox for layout
 
+
+## 2026-03-01
+- docs: update contributing guide with code style rules
+
