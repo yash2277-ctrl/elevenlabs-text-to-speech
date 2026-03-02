@@ -190,3 +190,7 @@ Running development notes.
 ## 2026-03-01
 - docs: update contributing guide with code style rules
 
+
+## 2026-03-02
+- chore: set up GitHub Actions workflow for CI
+
