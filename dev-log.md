@@ -194,3 +194,7 @@ Running development notes.
 ## 2026-03-02
 - chore: set up GitHub Actions workflow for CI
 
+
+## 2026-03-04
+- feat: add multi-select for bulk actions
+
