@@ -206,3 +206,7 @@ Running development notes.
 ## 2026-03-06
 - feat: add multi-select for bulk actions
 
+
+## 2026-03-06
+- docs: add FAQ section to README
+
