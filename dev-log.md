@@ -198,3 +198,7 @@ Running development notes.
 ## 2026-03-04
 - feat: add multi-select for bulk actions
 
+
+## 2026-03-06
+- perf: avoid unnecessary re-renders with useCallback
+
