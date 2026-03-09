@@ -210,3 +210,7 @@ Running development notes.
 ## 2026-03-06
 - docs: add FAQ section to README
 
+
+## 2026-03-09
+- fix: prevent tooltip from overflowing viewport
+
