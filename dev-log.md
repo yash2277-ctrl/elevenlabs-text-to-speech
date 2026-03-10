@@ -214,3 +214,7 @@ Running development notes.
 ## 2026-03-09
 - fix: prevent tooltip from overflowing viewport
 
+
+## 2026-03-10
+- chore: add pre-commit hook for linting
+
