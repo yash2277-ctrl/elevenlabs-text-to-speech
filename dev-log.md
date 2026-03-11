@@ -218,3 +218,7 @@ Running development notes.
 ## 2026-03-10
 - chore: add pre-commit hook for linting
 
+
+## 2026-03-11
+- docs: update README with latest setup steps
+
