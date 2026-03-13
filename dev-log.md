@@ -226,3 +226,7 @@ Running development notes.
 ## 2026-03-13
 - fix: correct CORS headers for preflight requests
 
+
+## 2026-03-13
+- feat: add progress bar for file uploads
+
