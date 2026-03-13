@@ -222,3 +222,7 @@ Running development notes.
 ## 2026-03-11
 - docs: update README with latest setup steps
 
+
+## 2026-03-13
+- fix: correct CORS headers for preflight requests
+
