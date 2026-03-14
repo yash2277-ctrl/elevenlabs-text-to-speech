@@ -230,3 +230,7 @@ Running development notes.
 ## 2026-03-13
 - feat: add progress bar for file uploads
 
+
+## 2026-03-14
+- refactor: move constants to dedicated config file
+
