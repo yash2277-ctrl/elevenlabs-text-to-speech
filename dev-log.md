@@ -234,3 +234,7 @@ Running development notes.
 ## 2026-03-14
 - refactor: move constants to dedicated config file
 
+
+## 2026-03-19
+- docs: update contributing guide with code style rules
+
