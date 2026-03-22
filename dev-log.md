@@ -242,3 +242,7 @@ Running development notes.
 ## 2026-03-22
 - chore: add pre-commit hook for linting
 
+
+## 2026-03-22
+- feat: add progress bar for file uploads
+
