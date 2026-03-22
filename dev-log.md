@@ -238,3 +238,7 @@ Running development notes.
 ## 2026-03-19
 - docs: update contributing guide with code style rules
 
+
+## 2026-03-22
+- chore: add pre-commit hook for linting
+
