@@ -246,3 +246,7 @@ Running development notes.
 ## 2026-03-22
 - feat: add progress bar for file uploads
 
+
+## 2026-03-24
+- fix: repair broken mobile navigation menu
+
