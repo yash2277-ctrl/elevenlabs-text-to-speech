@@ -250,3 +250,7 @@ Running development notes.
 ## 2026-03-24
 - fix: repair broken mobile navigation menu
 
+
+## 2026-03-25
+- style: add responsive grid for card layout
+
