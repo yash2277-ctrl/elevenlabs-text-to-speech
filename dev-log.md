@@ -254,3 +254,7 @@ Running development notes.
 ## 2026-03-25
 - style: add responsive grid for card layout
 
+
+## 2026-03-26
+- docs: add FAQ section to README
+
