@@ -258,3 +258,7 @@ Running development notes.
 ## 2026-03-26
 - docs: add FAQ section to README
 
+
+## 2026-03-27
+- perf: memoize expensive list rendering
+
