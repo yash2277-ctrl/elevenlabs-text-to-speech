@@ -267,3 +267,4 @@ MIT
 - [2025-10-18 02:27:44] Improve error handling
 - [2026-07-06 02:27:44] Refactor code structure
 - [2025-11-03 02:27:44] Refactor code structure
+- [2026-03-28 02:27:44] Add unit tests
