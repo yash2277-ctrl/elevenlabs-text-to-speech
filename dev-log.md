@@ -266,3 +266,7 @@ Running development notes.
 ## 2026-03-29
 - docs: clarify installation steps for Windows users
 
+
+## 2026-03-29
+- fix: handle network timeout with user feedback
+
