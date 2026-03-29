@@ -262,3 +262,7 @@ Running development notes.
 ## 2026-03-27
 - perf: memoize expensive list rendering
 
+
+## 2026-03-29
+- docs: clarify installation steps for Windows users
+
