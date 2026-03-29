@@ -270,3 +270,7 @@ Running development notes.
 ## 2026-03-29
 - fix: handle network timeout with user feedback
 
+
+## 2026-03-29
+- feat: add progress bar for file uploads
+
