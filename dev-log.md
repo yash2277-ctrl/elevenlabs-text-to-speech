@@ -274,3 +274,7 @@ Running development notes.
 ## 2026-03-29
 - feat: add progress bar for file uploads
 
+
+## 2026-03-31
+- feat: add error boundary to root component
+
