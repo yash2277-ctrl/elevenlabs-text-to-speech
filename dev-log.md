@@ -278,3 +278,7 @@ Running development notes.
 ## 2026-03-31
 - feat: add error boundary to root component
 
+
+## 2026-03-31
+- perf: virtualize long list for performance
+
