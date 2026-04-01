@@ -282,3 +282,7 @@ Running development notes.
 ## 2026-03-31
 - perf: virtualize long list for performance
 
+
+## 2026-04-01
+- docs: add screenshot to README
+
