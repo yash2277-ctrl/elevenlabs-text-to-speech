@@ -290,3 +290,7 @@ Running development notes.
 ## 2026-04-02
 - docs: update API response shape documentation
 
+
+## 2026-04-02
+- docs: improve onboarding guide for new contributors
+
