@@ -286,3 +286,7 @@ Running development notes.
 ## 2026-04-01
 - docs: add screenshot to README
 
+
+## 2026-04-02
+- docs: update API response shape documentation
+
