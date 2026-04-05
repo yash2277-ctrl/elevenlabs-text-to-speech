@@ -298,3 +298,7 @@ Running development notes.
 ## 2026-04-04
 - fix: sanitize user input before display
 
+
+## 2026-04-05
+- style: increase tap target size on mobile
+
