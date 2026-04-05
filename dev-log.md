@@ -302,3 +302,7 @@ Running development notes.
 ## 2026-04-05
 - style: increase tap target size on mobile
 
+
+## 2026-04-05
+- perf: reduce bundle size by tree-shaking icons
+
