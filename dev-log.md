@@ -306,3 +306,7 @@ Running development notes.
 ## 2026-04-05
 - perf: reduce bundle size by tree-shaking icons
 
+
+## 2026-04-07
+- fix: guard against undefined user in context
+
