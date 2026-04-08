@@ -310,3 +310,7 @@ Running development notes.
 ## 2026-04-07
 - fix: guard against undefined user in context
 
+
+## 2026-04-08
+- feat: support dark mode via CSS custom properties
+
