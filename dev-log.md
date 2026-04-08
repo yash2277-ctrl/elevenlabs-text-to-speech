@@ -314,3 +314,7 @@ Running development notes.
 ## 2026-04-08
 - feat: support dark mode via CSS custom properties
 
+
+## 2026-04-08
+- style: increase contrast ratio for accessibility
+
