@@ -318,3 +318,7 @@ Running development notes.
 ## 2026-04-08
 - style: increase contrast ratio for accessibility
 
+
+## 2026-04-09
+- feat: add export to CSV functionality
+
