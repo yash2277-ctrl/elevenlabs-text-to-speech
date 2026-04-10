@@ -322,3 +322,7 @@ Running development notes.
 ## 2026-04-09
 - feat: add export to CSV functionality
 
+
+## 2026-04-10
+- feat: display relative timestamps
+
