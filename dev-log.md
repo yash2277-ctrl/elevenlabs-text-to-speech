@@ -326,3 +326,7 @@ Running development notes.
 ## 2026-04-10
 - feat: display relative timestamps
 
+
+## 2026-04-11
+- refactor: extract helper function for date formatting
+
