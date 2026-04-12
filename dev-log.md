@@ -330,3 +330,7 @@ Running development notes.
 ## 2026-04-11
 - refactor: extract helper function for date formatting
 
+
+## 2026-04-12
+- fix: repair broken mobile navigation menu
+
