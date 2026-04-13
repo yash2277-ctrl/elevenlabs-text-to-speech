@@ -334,3 +334,7 @@ Running development notes.
 ## 2026-04-12
 - fix: repair broken mobile navigation menu
 
+
+## 2026-04-13
+- fix: prevent double form submission on slow network
+
