@@ -342,3 +342,7 @@ Running development notes.
 ## 2026-04-15
 - feat: add keyboard navigation to dropdown menus
 
+
+## 2026-04-15
+- feat: add error boundary to root component
+
