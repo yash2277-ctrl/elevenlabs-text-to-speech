@@ -338,3 +338,7 @@ Running development notes.
 ## 2026-04-13
 - fix: prevent double form submission on slow network
 
+
+## 2026-04-15
+- feat: add keyboard navigation to dropdown menus
+
