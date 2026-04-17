@@ -346,3 +346,7 @@ Running development notes.
 ## 2026-04-15
 - feat: add error boundary to root component
 
+
+## 2026-04-17
+- refactor: simplify conditional rendering logic
+
