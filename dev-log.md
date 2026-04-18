@@ -350,3 +350,7 @@ Running development notes.
 ## 2026-04-17
 - refactor: simplify conditional rendering logic
 
+
+## 2026-04-18
+- feat: add user avatar upload with preview
+
