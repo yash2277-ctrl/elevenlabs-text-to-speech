@@ -354,3 +354,7 @@ Running development notes.
 ## 2026-04-18
 - feat: add user avatar upload with preview
 
+
+## 2026-04-20
+- feat: implement local storage persistence for theme
+
