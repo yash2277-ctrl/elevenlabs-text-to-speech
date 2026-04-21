@@ -233,3 +233,4 @@ MIT
 - [2025-12-12 02:27:44] Enhance security
 - [2025-10-13 02:27:44] Update configuration
 - [2025-11-07 02:27:44] Add unit tests
+- [2026-04-22 02:27:44] Add API endpoints
