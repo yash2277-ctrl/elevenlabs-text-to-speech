@@ -358,3 +358,7 @@ Running development notes.
 ## 2026-04-20
 - feat: implement local storage persistence for theme
 
+
+## 2026-04-22
+- feat: display relative timestamps
+
