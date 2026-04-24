@@ -362,3 +362,7 @@ Running development notes.
 ## 2026-04-22
 - feat: display relative timestamps
 
+
+## 2026-04-24
+- style: increase contrast ratio for accessibility
+
