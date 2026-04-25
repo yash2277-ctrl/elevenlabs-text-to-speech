@@ -366,3 +366,7 @@ Running development notes.
 ## 2026-04-24
 - style: increase contrast ratio for accessibility
 
+
+## 2026-04-25
+- feat: add user avatar upload with preview
+
