@@ -172,3 +172,4 @@ MIT
 - [2025-11-21 02:27:44] Improve accessibility
 - [2026-01-04 02:27:44] Fix typos
 - [2026-06-29 02:27:44] Improve UI/UX
+- [2026-04-27 02:27:44] Add validation
