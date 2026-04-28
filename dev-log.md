@@ -374,3 +374,7 @@ Running development notes.
 ## 2026-04-27
 - refactor: replace magic numbers with named constants
 
+
+## 2026-04-28
+- docs: add deployment guide for production
+
