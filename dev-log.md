@@ -378,3 +378,7 @@ Running development notes.
 ## 2026-04-28
 - docs: add deployment guide for production
 
+
+## 2026-04-30
+- docs: add screenshot to README
+
