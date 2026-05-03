@@ -112,3 +112,4 @@ MIT
 - [2025-08-17 02:27:44] Add new features
 - [2026-05-28 02:27:44] Add API endpoints
 - [2026-04-11 02:27:44] Add API endpoints
+- [2026-05-04 02:27:44] Add API endpoints
