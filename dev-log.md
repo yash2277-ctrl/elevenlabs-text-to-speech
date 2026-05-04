@@ -386,3 +386,7 @@ Running development notes.
 ## 2026-05-01
 - feat: implement local storage persistence for theme
 
+
+## 2026-05-04
+- fix: resolve incorrect status code on missing routes
+
