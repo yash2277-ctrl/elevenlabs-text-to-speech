@@ -394,3 +394,7 @@ Running development notes.
 ## 2026-05-06
 - feat: add 404 not-found fallback page
 
+
+## 2026-05-06
+- feat: add recent searches dropdown
+
