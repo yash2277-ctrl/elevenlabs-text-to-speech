@@ -390,3 +390,7 @@ Running development notes.
 ## 2026-05-04
 - fix: resolve incorrect status code on missing routes
 
+
+## 2026-05-06
+- feat: add 404 not-found fallback page
+
