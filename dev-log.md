@@ -406,3 +406,7 @@ Running development notes.
 ## 2026-05-11
 - refactor: remove deprecated lifecycle methods
 
+
+## 2026-05-11
+- docs: add FAQ section to README
+
