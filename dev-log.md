@@ -410,3 +410,7 @@ Running development notes.
 ## 2026-05-11
 - docs: add FAQ section to README
 
+
+## 2026-05-12
+- fix: correct sidebar collapse animation
+
