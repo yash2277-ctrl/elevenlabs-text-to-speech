@@ -414,3 +414,7 @@ Running development notes.
 ## 2026-05-12
 - fix: correct sidebar collapse animation
 
+
+## 2026-05-13
+- chore: set up GitHub Actions workflow for CI
+
