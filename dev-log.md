@@ -422,3 +422,7 @@ Running development notes.
 ## 2026-05-14
 - perf: debounce search input handler
 
+
+## 2026-05-14
+- style: fix inconsistent spacing in components
+
