@@ -418,3 +418,7 @@ Running development notes.
 ## 2026-05-13
 - chore: set up GitHub Actions workflow for CI
 
+
+## 2026-05-14
+- perf: debounce search input handler
+
