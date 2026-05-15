@@ -426,3 +426,7 @@ Running development notes.
 ## 2026-05-14
 - style: fix inconsistent spacing in components
 
+
+## 2026-05-15
+- docs: add screenshot to README
+
