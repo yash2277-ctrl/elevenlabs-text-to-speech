@@ -430,3 +430,7 @@ Running development notes.
 ## 2026-05-15
 - docs: add screenshot to README
 
+
+## 2026-05-16
+- refactor: split large component into smaller parts
+
