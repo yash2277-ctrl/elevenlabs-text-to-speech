@@ -434,3 +434,7 @@ Running development notes.
 ## 2026-05-16
 - refactor: split large component into smaller parts
 
+
+## 2026-05-19
+- refactor: consolidate API error handling
+
