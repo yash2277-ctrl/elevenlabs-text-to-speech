@@ -442,3 +442,7 @@ Running development notes.
 ## 2026-05-20
 - fix: prevent double form submission on slow network
 
+
+## 2026-05-20
+- feat: add dark and light theme toggle to navbar
+
