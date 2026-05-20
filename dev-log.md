@@ -438,3 +438,7 @@ Running development notes.
 ## 2026-05-19
 - refactor: consolidate API error handling
 
+
+## 2026-05-20
+- fix: prevent double form submission on slow network
+
