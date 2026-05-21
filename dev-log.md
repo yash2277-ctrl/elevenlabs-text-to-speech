@@ -446,3 +446,7 @@ Running development notes.
 ## 2026-05-20
 - feat: add dark and light theme toggle to navbar
 
+
+## 2026-05-21
+- fix: resolve race condition in async data fetch
+
