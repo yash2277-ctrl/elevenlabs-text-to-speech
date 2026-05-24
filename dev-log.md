@@ -454,3 +454,7 @@ Running development notes.
 ## 2026-05-21
 - refactor: consolidate API error handling
 
+
+## 2026-05-24
+- perf: reduce bundle size by tree-shaking icons
+
