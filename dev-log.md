@@ -458,3 +458,7 @@ Running development notes.
 ## 2026-05-24
 - perf: reduce bundle size by tree-shaking icons
 
+
+## 2026-05-24
+- feat: implement local storage persistence for theme
+
