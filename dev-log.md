@@ -462,3 +462,7 @@ Running development notes.
 ## 2026-05-24
 - feat: implement local storage persistence for theme
 
+
+## 2026-05-25
+- fix: handle token expiry with automatic refresh
+
