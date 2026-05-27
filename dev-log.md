@@ -466,3 +466,7 @@ Running development notes.
 ## 2026-05-25
 - fix: handle token expiry with automatic refresh
 
+
+## 2026-05-27
+- feat: display relative timestamps
+
