@@ -470,3 +470,7 @@ Running development notes.
 ## 2026-05-27
 - feat: display relative timestamps
 
+
+## 2026-05-28
+- perf: virtualize long list for performance
+
