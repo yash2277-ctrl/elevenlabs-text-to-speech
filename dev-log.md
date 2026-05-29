@@ -474,3 +474,7 @@ Running development notes.
 ## 2026-05-28
 - perf: virtualize long list for performance
 
+
+## 2026-05-29
+- style: add responsive grid for card layout
+
