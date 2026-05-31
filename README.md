@@ -64,3 +64,5 @@ MIT
 - **2026-05-15**: Improve error handling
 
 - **2026-05-27**: Add tests
+
+- **2026-06-01**: Add tests
