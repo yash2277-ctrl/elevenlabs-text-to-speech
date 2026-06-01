@@ -478,3 +478,7 @@ Running development notes.
 ## 2026-05-29
 - style: add responsive grid for card layout
 
+
+## 2026-06-01
+- refactor: separate concerns in data fetching layer
+
