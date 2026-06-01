@@ -180,3 +180,4 @@ MIT
 - [2025-08-30 02:27:44] Update dependencies
 - [2026-05-11 02:27:44] Improve accessibility
 - [2026-06-17 02:27:44] Add unit tests
+- [2026-06-02 02:27:44] Improve error handling
