@@ -190,3 +190,4 @@ MIT
 - [2025-12-15 02:27:44] Improve UI/UX
 - [2026-01-01 02:27:44] Improve UI/UX
 - [2026-04-06 02:27:44] Update README
+- [2026-06-03 02:27:44] Add comments
