@@ -482,3 +482,7 @@ Running development notes.
 ## 2026-06-01
 - refactor: separate concerns in data fetching layer
 
+
+## 2026-06-02
+- style: increase tap target size on mobile
+
