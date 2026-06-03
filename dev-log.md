@@ -486,3 +486,7 @@ Running development notes.
 ## 2026-06-02
 - style: increase tap target size on mobile
 
+
+## 2026-06-03
+- docs: document all environment variables
+
