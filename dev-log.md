@@ -490,3 +490,7 @@ Running development notes.
 ## 2026-06-03
 - docs: document all environment variables
 
+
+## 2026-06-04
+- fix: ensure logout clears all session data
+
