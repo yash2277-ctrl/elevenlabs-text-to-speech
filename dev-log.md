@@ -498,3 +498,7 @@ Running development notes.
 ## 2026-06-05
 - feat: support dark mode via CSS custom properties
 
+
+## 2026-06-05
+- feat: add success and error toast notifications
+
