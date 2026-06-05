@@ -494,3 +494,7 @@ Running development notes.
 ## 2026-06-04
 - fix: ensure logout clears all session data
 
+
+## 2026-06-05
+- feat: support dark mode via CSS custom properties
+
