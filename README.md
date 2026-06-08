@@ -70,3 +70,5 @@ MIT
 - **2026-06-04**: Improve performance
 
 - **2026-06-06**: Improve error handling
+
+- **2026-06-09**: Update README
