@@ -502,3 +502,7 @@ Running development notes.
 ## 2026-06-05
 - feat: add success and error toast notifications
 
+
+## 2026-06-09
+- feat: add success and error toast notifications
+
