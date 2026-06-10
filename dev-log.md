@@ -510,3 +510,7 @@ Running development notes.
 ## 2026-06-10
 - perf: cache API responses in session storage
 
+
+## 2026-06-10
+- feat: add keyboard shortcut for quick search
+
