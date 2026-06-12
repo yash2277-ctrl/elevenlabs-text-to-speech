@@ -514,3 +514,7 @@ Running development notes.
 ## 2026-06-10
 - feat: add keyboard shortcut for quick search
 
+
+## 2026-06-12
+- feat: add progress bar for file uploads
+
