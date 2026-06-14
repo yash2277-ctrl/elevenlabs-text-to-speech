@@ -518,3 +518,7 @@ Running development notes.
 ## 2026-06-12
 - feat: add progress bar for file uploads
 
+
+## 2026-06-14
+- fix: correct route guard redirect logic
+
