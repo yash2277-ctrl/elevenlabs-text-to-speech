@@ -522,3 +522,7 @@ Running development notes.
 ## 2026-06-14
 - fix: correct route guard redirect logic
 
+
+## 2026-06-15
+- perf: memoize expensive list rendering
+
