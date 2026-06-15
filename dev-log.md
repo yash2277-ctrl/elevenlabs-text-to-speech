@@ -526,3 +526,7 @@ Running development notes.
 ## 2026-06-15
 - perf: memoize expensive list rendering
 
+
+## 2026-06-15
+- feat: add 404 not-found fallback page
+
