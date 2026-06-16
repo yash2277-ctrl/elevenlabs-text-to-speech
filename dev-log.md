@@ -530,3 +530,7 @@ Running development notes.
 ## 2026-06-15
 - feat: add 404 not-found fallback page
 
+
+## 2026-06-16
+- feat: add export to CSV functionality
+
