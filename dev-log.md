@@ -534,3 +534,7 @@ Running development notes.
 ## 2026-06-16
 - feat: add export to CSV functionality
 
+
+## 2026-06-17
+- chore: configure prettier formatting rules
+
