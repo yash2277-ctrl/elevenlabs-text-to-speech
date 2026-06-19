@@ -538,3 +538,7 @@ Running development notes.
 ## 2026-06-17
 - chore: configure prettier formatting rules
 
+
+## 2026-06-19
+- feat: add 404 not-found fallback page
+
