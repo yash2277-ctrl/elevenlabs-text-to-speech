@@ -542,3 +542,7 @@ Running development notes.
 ## 2026-06-19
 - feat: add 404 not-found fallback page
 
+
+## 2026-06-21
+- style: fix inconsistent spacing in components
+
