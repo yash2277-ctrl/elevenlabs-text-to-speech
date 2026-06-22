@@ -546,3 +546,7 @@ Running development notes.
 ## 2026-06-21
 - style: fix inconsistent spacing in components
 
+
+## 2026-06-22
+- feat: add confirmation dialog for destructive actions
+
