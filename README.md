@@ -74,3 +74,5 @@ MIT
 - **2026-06-09**: Update README
 
 - **2026-06-11**: Improve performance
+
+- **2026-06-23**: Update dependencies
