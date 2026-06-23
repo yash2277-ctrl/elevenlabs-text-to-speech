@@ -554,3 +554,7 @@ Running development notes.
 ## 2026-06-23
 - fix: resolve race condition in async data fetch
 
+
+## 2026-06-23
+- docs: update API response shape documentation
+
