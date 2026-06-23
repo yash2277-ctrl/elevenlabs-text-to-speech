@@ -550,3 +550,7 @@ Running development notes.
 ## 2026-06-22
 - feat: add confirmation dialog for destructive actions
 
+
+## 2026-06-23
+- fix: resolve race condition in async data fetch
+
