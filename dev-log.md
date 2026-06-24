@@ -562,3 +562,7 @@ Running development notes.
 ## 2026-06-24
 - feat: add retry button on network error screen
 
+
+## 2026-06-24
+- feat: add retry button on network error screen
+
