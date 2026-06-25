@@ -76,3 +76,5 @@ MIT
 - **2026-06-11**: Improve performance
 
 - **2026-06-23**: Update dependencies
+
+- **2026-06-26**: Fix bugs
