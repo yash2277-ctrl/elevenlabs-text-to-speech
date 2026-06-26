@@ -570,3 +570,7 @@ Running development notes.
 ## 2026-06-25
 - chore: remove unused imports and dead code
 
+
+## 2026-06-26
+- fix: resolve date picker timezone offset
+
