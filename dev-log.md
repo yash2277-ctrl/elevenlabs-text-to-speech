@@ -574,3 +574,7 @@ Running development notes.
 ## 2026-06-26
 - fix: resolve date picker timezone offset
 
+
+## 2026-06-27
+- docs: add inline comments to complex functions
+
