@@ -586,3 +586,7 @@ Running development notes.
 ## 2026-06-29
 - fix: resolve incorrect status code on missing routes
 
+
+## 2026-06-29
+- refactor: replace magic numbers with named constants
+
