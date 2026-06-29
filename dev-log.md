@@ -582,3 +582,7 @@ Running development notes.
 ## 2026-06-29
 - docs: document all environment variables
 
+
+## 2026-06-29
+- fix: resolve incorrect status code on missing routes
+
