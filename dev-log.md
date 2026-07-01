@@ -594,3 +594,7 @@ Running development notes.
 ## 2026-06-30
 - style: apply consistent font-size scale
 
+
+## 2026-07-01
+- style: add responsive grid for card layout
+
