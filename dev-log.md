@@ -598,3 +598,7 @@ Running development notes.
 ## 2026-07-01
 - style: add responsive grid for card layout
 
+
+## 2026-07-02
+- feat: store user preferences in backend profile
+
