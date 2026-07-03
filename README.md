@@ -80,3 +80,5 @@ MIT
 - **2026-06-26**: Fix bugs
 
 - **2026-07-01**: Add new features
+
+- **2026-07-04**: Improve error handling
