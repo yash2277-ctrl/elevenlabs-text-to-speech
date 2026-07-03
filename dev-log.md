@@ -602,3 +602,7 @@ Running development notes.
 ## 2026-07-02
 - feat: store user preferences in backend profile
 
+
+## 2026-07-03
+- fix: prevent tooltip from overflowing viewport
+
