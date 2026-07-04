@@ -606,3 +606,7 @@ Running development notes.
 ## 2026-07-03
 - fix: prevent tooltip from overflowing viewport
 
+
+## 2026-07-04
+- refactor: split large component into smaller parts
+
