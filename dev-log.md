@@ -614,3 +614,7 @@ Running development notes.
 ## 2026-07-07
 - feat: add export to CSV functionality
 
+
+## 2026-07-07
+- fix: guard against undefined user in context
+
