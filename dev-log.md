@@ -610,3 +610,7 @@ Running development notes.
 ## 2026-07-04
 - refactor: split large component into smaller parts
 
+
+## 2026-07-07
+- feat: add export to CSV functionality
+
