@@ -618,3 +618,7 @@ Running development notes.
 ## 2026-07-07
 - fix: guard against undefined user in context
 
+
+## 2026-07-08
+- feat: add 404 not-found fallback page
+
