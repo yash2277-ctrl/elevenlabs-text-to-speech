@@ -626,3 +626,7 @@ Running development notes.
 ## 2026-07-09
 - fix: ensure logout clears all session data
 
+
+## 2026-07-09
+- fix: remove console.log statements from production code
+
