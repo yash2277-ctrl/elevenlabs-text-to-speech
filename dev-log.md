@@ -622,3 +622,7 @@ Running development notes.
 ## 2026-07-08
 - feat: add 404 not-found fallback page
 
+
+## 2026-07-09
+- fix: ensure logout clears all session data
+
