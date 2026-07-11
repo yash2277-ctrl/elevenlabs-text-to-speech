@@ -630,3 +630,7 @@ Running development notes.
 ## 2026-07-09
 - fix: remove console.log statements from production code
 
+
+## 2026-07-11
+- refactor: replace magic numbers with named constants
+
