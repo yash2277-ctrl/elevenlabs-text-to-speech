@@ -634,3 +634,7 @@ Running development notes.
 ## 2026-07-11
 - refactor: replace magic numbers with named constants
 
+
+## 2026-07-15
+- style: apply consistent font-size scale
+
