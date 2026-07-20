@@ -642,3 +642,7 @@ Running development notes.
 ## 2026-07-17
 - docs: add deployment guide for production
 
+
+## 2026-07-20
+- refactor: extract helper function for date formatting
+
