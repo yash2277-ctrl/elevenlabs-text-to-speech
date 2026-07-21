@@ -646,3 +646,7 @@ Running development notes.
 ## 2026-07-20
 - refactor: extract helper function for date formatting
 
+
+## 2026-07-21
+- fix: prevent flash of unstyled content on load
+
