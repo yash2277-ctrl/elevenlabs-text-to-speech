@@ -650,3 +650,7 @@ Running development notes.
 ## 2026-07-21
 - fix: prevent flash of unstyled content on load
 
+
+## 2026-07-22
+- perf: reduce bundle size by tree-shaking icons
+
