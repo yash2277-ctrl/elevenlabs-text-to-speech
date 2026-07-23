@@ -658,3 +658,7 @@ Running development notes.
 ## 2026-07-23
 - fix: sanitize filename before file system write
 
+
+## 2026-07-23
+- feat: add recent searches dropdown
+
