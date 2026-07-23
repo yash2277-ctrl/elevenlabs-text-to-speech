@@ -654,3 +654,7 @@ Running development notes.
 ## 2026-07-22
 - perf: reduce bundle size by tree-shaking icons
 
+
+## 2026-07-23
+- fix: sanitize filename before file system write
+
