@@ -88,3 +88,5 @@ MIT
 - **2026-07-08**: Refactor code
 
 - **2026-07-16**: Update documentation
+
+- **2026-07-24**: Add tests
