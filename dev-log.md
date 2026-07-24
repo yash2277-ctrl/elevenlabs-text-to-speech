@@ -662,3 +662,7 @@ Running development notes.
 ## 2026-07-23
 - feat: add recent searches dropdown
 
+
+## 2026-07-24
+- chore: add .editorconfig for consistent formatting
+
