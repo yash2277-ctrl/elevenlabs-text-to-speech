@@ -666,3 +666,7 @@ Running development notes.
 ## 2026-07-24
 - chore: add .editorconfig for consistent formatting
 
+
+## 2026-07-24
+- fix: resolve race condition in async data fetch
+
