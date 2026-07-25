@@ -674,3 +674,7 @@ Running development notes.
 ## 2026-07-25
 - feat: add recent searches dropdown
 
+
+## 2026-07-25
+- fix: handle empty array before calling map
+
