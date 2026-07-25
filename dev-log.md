@@ -670,3 +670,7 @@ Running development notes.
 ## 2026-07-24
 - fix: resolve race condition in async data fetch
 
+
+## 2026-07-25
+- feat: add recent searches dropdown
+
