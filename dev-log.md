@@ -678,3 +678,7 @@ Running development notes.
 ## 2026-07-25
 - fix: handle empty array before calling map
 
+
+## 2026-07-27
+- fix: patch memory leak in event listener cleanup
+
