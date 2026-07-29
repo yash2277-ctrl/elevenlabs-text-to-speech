@@ -682,3 +682,7 @@ Running development notes.
 ## 2026-07-27
 - fix: patch memory leak in event listener cleanup
 
+
+## 2026-07-29
+- feat: add retry button on network error screen
+
