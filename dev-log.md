@@ -690,3 +690,7 @@ Running development notes.
 ## 2026-07-30
 - feat: add retry button on network error screen
 
+
+## 2026-07-31
+- refactor: unify HTTP client configuration
+
