@@ -694,3 +694,7 @@ Running development notes.
 ## 2026-07-31
 - refactor: unify HTTP client configuration
 
+
+## 2026-08-01
+- feat: add copy-to-clipboard utility
+
