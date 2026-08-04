@@ -58,3 +58,5 @@ MIT
 - **2026-08-05**: docs: Update environment variables guide
 
 - **2026-08-05**: chore: Update dependencies
+
+- **2026-08-05**: docs: Update environment variables guide
