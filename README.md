@@ -1,0 +1,51 @@
+# ElevenLabs Text-to-Speech Integration
+
+A full-stack application integrating ElevenLabs AI text-to-speech API for high-quality voice synthesis.
+
+## Features
+
+- Text-to-speech conversion using ElevenLabs API
+- Multiple voice options
+- Audio file management
+- Real-time preview
+- Download generated audio files
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **API**: ElevenLabs AI
+- **Database**: SQLite
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Set up environment variables in `.env`
+4. Run the application:
+   ```bash
+   npm start
+   ```
+
+## Environment Variables
+
+Create a `.env` file in the backend directory:
+
+```
+ELEVENLABS_API_KEY=your_api_key_here
+PORT=3000
+```
+
+## Usage
+
+1. Enter text in the input field
+2. Select a voice from the dropdown
+3. Click "Generate Speech"
+4. Play or download the generated audio
+
+## License
+
+MIT
