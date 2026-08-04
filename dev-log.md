@@ -698,3 +698,7 @@ Running development notes.
 ## 2026-08-01
 - feat: add copy-to-clipboard utility
 
+
+## 2026-08-04
+- fix: prevent XSS in user-generated content
+
