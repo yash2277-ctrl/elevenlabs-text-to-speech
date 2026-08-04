@@ -49,3 +49,8 @@ PORT=3000
 ## License
 
 MIT
+
+
+## Recent Updates
+
+- **2026-08-05**: chore: Update dependencies
