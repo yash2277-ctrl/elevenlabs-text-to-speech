@@ -702,3 +702,7 @@ Running development notes.
 ## 2026-08-04
 - fix: prevent XSS in user-generated content
 
+
+## 2026-08-05
+- feat: add progress bar for file uploads
+
