@@ -706,3 +706,7 @@ Running development notes.
 ## 2026-08-05
 - feat: add progress bar for file uploads
 
+
+## 2026-08-10
+- docs: clarify installation steps for Windows users
+
