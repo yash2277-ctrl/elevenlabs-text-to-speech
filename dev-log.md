@@ -710,3 +710,7 @@ Running development notes.
 ## 2026-08-10
 - docs: clarify installation steps for Windows users
 
+
+## 2026-08-12
+- chore: remove unused imports and dead code
+
