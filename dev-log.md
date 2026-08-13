@@ -714,3 +714,7 @@ Running development notes.
 ## 2026-08-12
 - chore: remove unused imports and dead code
 
+
+## 2026-08-13
+- feat: add copy-to-clipboard utility
+
