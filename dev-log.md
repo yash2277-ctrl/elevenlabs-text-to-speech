@@ -718,3 +718,7 @@ Running development notes.
 ## 2026-08-13
 - feat: add copy-to-clipboard utility
 
+
+## 2026-08-15
+- refactor: simplify conditional rendering logic
+
