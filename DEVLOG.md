@@ -11,3 +11,4 @@
 - 2026-08-15 13:17 — update sample set.
 - 2026-08-15 16:34 — update sample set.
 - 2026-08-17 19:56 — trim request payload.
+- 2026-08-17 20:16 — try new voice preset.
