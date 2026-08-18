@@ -722,3 +722,7 @@ Running development notes.
 ## 2026-08-15
 - refactor: simplify conditional rendering logic
 
+
+## 2026-08-18
+- fix: correct CORS headers for preflight requests
+
