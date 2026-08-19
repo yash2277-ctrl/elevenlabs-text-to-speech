@@ -726,3 +726,7 @@ Running development notes.
 ## 2026-08-18
 - fix: correct CORS headers for preflight requests
 
+
+## 2026-08-19
+- perf: split code at route boundaries
+
