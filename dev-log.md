@@ -730,3 +730,7 @@ Running development notes.
 ## 2026-08-19
 - perf: split code at route boundaries
 
+
+## 2026-08-19
+- fix: handle null response from API gracefully
+
