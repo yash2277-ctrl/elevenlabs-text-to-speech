@@ -734,3 +734,7 @@ Running development notes.
 ## 2026-08-19
 - fix: handle null response from API gracefully
 
+
+## 2026-08-20
+- perf: split code at route boundaries
+
