@@ -738,3 +738,7 @@ Running development notes.
 ## 2026-08-20
 - perf: split code at route boundaries
 
+
+## 2026-08-20
+- style: unify button hover states across pages
+
