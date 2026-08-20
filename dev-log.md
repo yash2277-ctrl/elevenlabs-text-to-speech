@@ -742,3 +742,7 @@ Running development notes.
 ## 2026-08-20
 - style: unify button hover states across pages
 
+
+## 2026-08-20
+- docs: add architecture overview section to README
+
