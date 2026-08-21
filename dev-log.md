@@ -746,3 +746,7 @@ Running development notes.
 ## 2026-08-20
 - docs: add architecture overview section to README
 
+
+## 2026-08-21
+- fix: prevent double form submission on slow network
+
