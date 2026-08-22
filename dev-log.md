@@ -750,3 +750,7 @@ Running development notes.
 ## 2026-08-21
 - fix: prevent double form submission on slow network
 
+
+## 2026-08-22
+- style: fix alignment of modal close button
+
