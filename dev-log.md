@@ -762,3 +762,7 @@ Running development notes.
 ## 2026-08-23
 - fix: correct off-by-one error in pagination
 
+
+## 2026-08-23
+- feat: support dark mode via CSS custom properties
+
