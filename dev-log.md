@@ -754,3 +754,7 @@ Running development notes.
 ## 2026-08-22
 - style: fix alignment of modal close button
 
+
+## 2026-08-23
+- fix: prevent flash of unstyled content on load
+
