@@ -758,3 +758,7 @@ Running development notes.
 ## 2026-08-23
 - fix: prevent flash of unstyled content on load
 
+
+## 2026-08-23
+- fix: correct off-by-one error in pagination
+
