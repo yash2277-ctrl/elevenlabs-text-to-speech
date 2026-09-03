@@ -28,3 +28,4 @@
 - 2026-08-31 18:37 — handle long input.
 - 2026-09-01 19:34 — trim request payload.
 - 2026-09-02 09:15 — trim request payload.
+- 2026-09-03 14:32 — cache synthesis output.
