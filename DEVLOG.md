@@ -41,3 +41,4 @@
 - 2026-09-08 18:51 — update sample set.
 - 2026-09-09 09:01 — update sample set.
 - 2026-09-09 14:37 — try new voice preset.
+- 2026-09-09 15:57 — update sample set.
