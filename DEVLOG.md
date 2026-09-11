@@ -44,3 +44,4 @@
 - 2026-09-09 15:57 — update sample set.
 - 2026-09-09 17:20 — trim request payload.
 - 2026-09-09 17:56 — cache synthesis output.
+- 2026-09-11 12:00 — handle long input.
