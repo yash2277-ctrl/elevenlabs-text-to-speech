@@ -49,3 +49,4 @@
 - 2026-09-11 16:18 — handle long input.
 - 2026-09-12 16:10 — trim request payload.
 - 2026-09-14 16:53 — cache synthesis output.
+- 2026-09-14 17:57 — try new voice preset.
