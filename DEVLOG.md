@@ -61,3 +61,4 @@
 - 2026-09-22 18:19 — try new voice preset.
 - 2026-09-23 11:38 — cache synthesis output.
 - 2026-09-25 21:09 — cache synthesis output.
+- 2026-09-28 12:58 — try new voice preset.
