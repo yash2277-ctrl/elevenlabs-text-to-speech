@@ -68,3 +68,4 @@
 - 2026-09-29 15:17 — update sample set.
 - 2026-10-02 09:41 — update sample set.
 - 2026-10-02 10:39 — update sample set.
+- 2026-10-05 15:16 — handle long input.
