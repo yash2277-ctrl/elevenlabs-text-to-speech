@@ -73,3 +73,4 @@
 - 2026-10-07 14:41 — update sample set.
 - 2026-10-09 11:21 — cache synthesis output.
 - 2026-10-12 14:40 — try new voice preset.
+- 2026-10-12 17:15 — try new voice preset.
