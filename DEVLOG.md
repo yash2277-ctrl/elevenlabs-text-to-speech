@@ -79,3 +79,4 @@
 - 2026-10-19 11:15 — handle long input.
 - 2026-10-19 13:48 — update sample set.
 - 2026-10-19 15:04 — try new voice preset.
+- 2026-10-19 16:56 — trim request payload.
