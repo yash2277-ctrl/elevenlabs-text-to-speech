@@ -87,3 +87,4 @@
 - 2026-10-23 18:33 — try new voice preset.
 - 2026-10-23 19:03 — trim request payload.
 - 2026-10-25 09:31 — trim request payload.
+- 2026-10-25 14:17 — cache synthesis output.
