@@ -95,3 +95,4 @@
 - 2026-10-29 16:36 — update sample set.
 - 2026-10-30 19:11 — update sample set.
 - 2026-10-31 14:21 — handle long input.
+- 2026-10-31 19:23 — cache synthesis output.
