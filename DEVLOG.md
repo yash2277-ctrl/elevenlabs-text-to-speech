@@ -94,3 +94,4 @@
 - 2026-10-29 15:54 — try new voice preset.
 - 2026-10-29 16:36 — update sample set.
 - 2026-10-30 19:11 — update sample set.
+- 2026-10-31 14:21 — handle long input.
